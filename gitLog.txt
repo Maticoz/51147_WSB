@@ -1,0 +1,8 @@
+4a06054645875783a3ff2e0db912607b7234266c (HEAD -> main, origin/main) Merge pull request #2 from Maticoz/ofiary_agresji
+2403f50a8099408c58ba25a46d90c53d3d815dcf (tag: v4.3, origin/ofiary_agresji, ofiary_agresji) Ustanowienie Dania Dzieci BOA
+f0e755f9b350e44352c8e03cd5c8bba3acfa7d9a MD Dzieci BOA
+2a4b15c7ca13804e9e6cbdd637e0a180b551bd46 Merge pull request #1 from Maticoz/environment
+59b19d93500fba12e232f4ea37241c041219f76f (tag: v4.2) Deklaracja Sztokholmska
+cd58aac79cebe8efa7ed4654ef4346304c28105c Ustanowienie ŚDŚ
+4170c382045e5c5ed6af192107f76a273ce74390 Światowy Dzień Środowiska
+27ae43e1e406960d30957a9c0ac73885d81beaf8 Initial commit
